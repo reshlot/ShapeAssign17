@@ -1,0 +1,8 @@
+D:\Simplilearn\Day-14\Assignment\ShapeAss17\ShapeAss17\bin\Debug\ShapeAss17.exe.config
+D:\Simplilearn\Day-14\Assignment\ShapeAss17\ShapeAss17\bin\Debug\ShapeAss17.exe
+D:\Simplilearn\Day-14\Assignment\ShapeAss17\ShapeAss17\bin\Debug\ShapeAss17.pdb
+D:\Simplilearn\Day-14\Assignment\ShapeAss17\ShapeAss17\obj\Debug\ShapeAss17.csproj.AssemblyReference.cache
+D:\Simplilearn\Day-14\Assignment\ShapeAss17\ShapeAss17\obj\Debug\ShapeAss17.csproj.SuggestedBindingRedirects.cache
+D:\Simplilearn\Day-14\Assignment\ShapeAss17\ShapeAss17\obj\Debug\ShapeAss17.csproj.CoreCompileInputs.cache
+D:\Simplilearn\Day-14\Assignment\ShapeAss17\ShapeAss17\obj\Debug\ShapeAss17.exe
+D:\Simplilearn\Day-14\Assignment\ShapeAss17\ShapeAss17\obj\Debug\ShapeAss17.pdb
